@@ -2,6 +2,8 @@
 
 Clon de sudoku.com como webapp 100 % front (sin backend). Prioridad móvil: pensada para usarse en el teléfono y para servir de base a la futura app nativa.
 
+**Versión pública:** https://joshnts.github.io/sudoku/ (GitHub Pages, se despliega automáticamente con cada push a `master`).
+
 ## Qué incluye
 
 - Pantallas: Principal, Juego, Desafíos diarios (calendario con trofeos) y Estadísticas.
